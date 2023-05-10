@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99c316f-57fd-4254-ab89-dcca63530143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicing Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReturnTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivideMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2PbOV3s1NueewyNZCaI7YFaFGuP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +41,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/Documents/CTAC/Assignments/FullStack103/Practicing Methods/src/Main.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -57,7 +55,9 @@
       <option name="presentableId" value="Default" />
       <updated>1683722340638</updated>
       <workItem from="1683722341647" duration="10920000" />
-      <workItem from="1683735401793" duration="1386000" />
+      <workItem from="1683735401793" duration="1951000" />
+      <workItem from="1683738596336" duration="240000" />
+      <workItem from="1683739538139" duration="963000" />
     </task>
     <servers />
   </component>
